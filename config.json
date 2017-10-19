@@ -1,0 +1,15 @@
+{
+    "title": "Project 9",
+    "baseURL": "http:\/\/www.greenlight.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1759045",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "greenlight.com"
+    }
+}
